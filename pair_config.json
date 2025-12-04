@@ -1,0 +1,79 @@
+{
+  "USDJPY": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 15.0,
+    "wick_ratio_max": 2.0
+  },
+  "EURJPY": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 15.0,
+    "wick_ratio_max": 2.0
+  },
+  "GBPJPY": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 15.0,
+    "wick_ratio_max": 2.0
+  },
+  "NZDJPY": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 15.0,
+    "wick_ratio_max": 2.0
+  },
+  "EURUSD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  },
+  "GBPUSD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  },
+  "NZDUSD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  },
+  "EURNZD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  },
+  "GBPNZD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  },
+  "AUDJPY": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 15.0,
+    "wick_ratio_max": 2.0
+  },
+  "AUDUSD": {
+    "enabled": true,
+    "period_min": 15,
+    "lookback_n": 20,
+    "body_min_pips": 8.0,
+    "wick_ratio_max": 2.0
+  }
+}
